@@ -1217,7 +1217,8 @@ strings = ["abce", "abcd", "cdx"]
 
 n = 2
 
-z
+#아 모르겠다
+
 
 
 
